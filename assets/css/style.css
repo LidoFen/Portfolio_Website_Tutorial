@@ -66,10 +66,9 @@
 
 .home-image img {
     position: relative;
-    bottom: 65px;
-    max-width: 380px;
-    border-bottom-right-radius: 38%;
-    border-bottom-left-radius: 38%;
+    bottom: 90px;
+    border-bottom-right-radius: 35%;
+    border-bottom-left-radius: 35%;
 }
 
 .home-content {
